@@ -9,5 +9,5 @@ chapter: true
 Currently there are three institions involved in this collaboration they include:
 
 - Univerisy of Maryland
-- Purdue
+- Purdue University
 - UC Davis
