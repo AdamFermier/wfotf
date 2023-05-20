@@ -1,5 +1,5 @@
 ---
-title: Advanced Analytics in Pharm
+title: Advanced Analytics in Manufacturing
 weight: 1
 chapter: true
 ---
@@ -8,4 +8,4 @@ chapter: true
 
 In our current day and age, much of the information we collect is now digital and can really lean into the big data advanced analytics strategies.  Hurdles exist and we'll walk through the key areas of focus.
 
-{{% children %}}
+{{% children depth = "2"%}}
