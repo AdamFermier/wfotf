@@ -6,4 +6,4 @@ chapter: true
 
 # Historical Lectures
 
-{{% children %}}
+{{% children depth = "2"%}}
