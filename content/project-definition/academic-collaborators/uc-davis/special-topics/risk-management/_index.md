@@ -6,4 +6,5 @@ chapter: true
 
 # Risk Management
 
-{{% children %}}
+{{< iframe-pdf "UC%20Davis_QRM%20Presentation_Final_pdf.pdf" >}}
+

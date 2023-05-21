@@ -14,7 +14,8 @@ Workforce of the Future (wfotf) is an initiative led by [Ferdinando Aspesi](http
 
 We are working with three key Academic Partners and connecting them with Faculty Interface Teams (FIT) to help innovatively create the curriculum.
 
-| Institution | Academic Team | Industry Partners |
-| Purdue      |               |                   |
-| University of Maryland | | |
-| UC Davis | | Meli, Tara Stonebarger, Adam Fermier|
+| Institution            | Academic Partners | Industry Partners                                                  |
+|------------------------|-------------------|--------------------------------------------------------------------|
+| University of Maryland |                   |                                                                    |
+| Purdue University      |                   |                                                                    |
+| UC Davis               |                   | Meli Gallup<br>Tara Stonebarger<br>Adam Fermier <br> Manfred Maeder|
