@@ -1,12 +1,10 @@
 ---
-title: Academic Collaborators
+title: Our Academic Partners
 weight: 1
-chapter: true
+chapter: false
 ---
 
-# Academic Institutions Engaged
-
-Currently there are three institions involved in this collaboration they include:
+Currently there are three institions involved in this Tier 1 collaboration they include:
 
 - Univerisy of Maryland
 - Purdue

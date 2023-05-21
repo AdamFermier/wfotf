@@ -14,3 +14,10 @@ We know that students are eager to learn more about what's possible in the caree
 - Faculty get directly involved to help stay abreast of the latest trends and help teach likewise to industrial collaborators
 - Industrial participants are energized and motivated to help tell their story and how they contribute to help people around the world
 
+## Remember to follow your passion and dreams
+
+{{% notice style="primary" title="Dare to Dream" icon="graduation-cap" %}}
+You fell in love with STEM and yes you can make a career out of your passion!
+{{% /notice %}}
+
+{{< youtubestartend V80-gPkpH6M 677 840 >}}

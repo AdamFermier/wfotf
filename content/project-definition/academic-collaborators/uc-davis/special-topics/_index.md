@@ -1,7 +1,7 @@
 ---
 title: Special Topics
 weight: 1
-chapter: true
+chapter: false
 ---
 
 ## Our Vision
@@ -21,6 +21,6 @@ The student would learn:
 - Define different modes of teaching/learning
 - Help build out that lecture in a web hosted framework
 
-# Historical Lectures
+## Historical Lectures
 
 {{% children depth = "2"%}}
