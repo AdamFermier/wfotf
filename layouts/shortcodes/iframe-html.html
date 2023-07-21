@@ -1,20 +1,38 @@
+
 <script>
-    function resizeIframe(obj) {
-      obj.style.height =  1.05*obj.contentWindow.document.body.scrollHeight + 'px';
-    }
-  </script>
+  function resizeIframe(obj) {
+    obj.style.height =  1.05*obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+</script>
 
 <iframe 
-	height= 1250 px
-	width= 1000 px
-	name="iframe" 
-	src="{{ index .Params 0 }}" 
-    frameborder="0" 
-    scrolling="yes" 
-    position: relative
-	allowfullscreen = TRUE
-    onload="resizeIframe(this)">
+        id = "my-iframe" 
+        src="{{ .Get 0 }}"
+        height= 1250 px
+        width= 1500 px
+        name="iframe" 
+        frameborder="0" 
+        scrolling="yes" 
+        position: relative
+        allowfullscreen = TRUE
+        onload="resizeIframe(this)"
+        >
+
 </iframe>
+<button onclick="openFullscreen()">Go Fullscreen</button>
 
-
-
+<script>
+  var elem = document.getElementById("my-iframe");
+  
+  function openFullscreen() {
+    if (elem.requestFullscreen) {
+      elem.requestFullscreen();
+    } else if (elem.mozRequestFullScreen) { /* Firefox*/
+      elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) { /* Chrome, Safri and Opera */ 
+      elem.webkitRequestFullscreen();
+    } else if (elem.msRequestFullscreen) {  /* IE/Edge */
+      elem.msRequestFullscreen();
+    }
+  }
+</script>
