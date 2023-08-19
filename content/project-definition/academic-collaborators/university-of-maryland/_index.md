@@ -1,7 +1,7 @@
 ---
 title: University of Maryland
 weight: 1
-chapter: true
+archetype: "chapter"
 ---
 
 # University of Maryland

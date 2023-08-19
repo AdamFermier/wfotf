@@ -1,7 +1,7 @@
 ---
 title: Advanced Analytics in Manufacturing
 weight: 1
-chapter: true
+archetype: "chapter"
 ---
 
 # Advanced Analytics

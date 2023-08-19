@@ -1,7 +1,7 @@
 ---
 title: Quality by Design
 weight: 1
-chapter: true
+archetype: "chapter"
 ---
 
 # Risk Management

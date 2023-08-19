@@ -1,7 +1,7 @@
 ---
 title: Purdue University
 weight: 1
-chapter: true
+archetype: "chapter"
 ---
 
 # Purdue University

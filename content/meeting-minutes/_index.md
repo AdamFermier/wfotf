@@ -1,7 +1,7 @@
 ---
 title: Meeting Minutes
 weight: 1
-chapter: true
+archetype: "chapter"
 ---
 
 # Tracking our Collaborations

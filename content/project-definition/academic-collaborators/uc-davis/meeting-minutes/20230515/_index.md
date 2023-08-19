@@ -1,7 +1,7 @@
 ---
 title: May 15 2023
 weight: -20230515
-chapter: false
+archetype: "default"
 ---
 
 Met to organize our thoughts around moving forward.  We landed on a concept that would lead to a content/course generation mechanism whereby students would work with industrial SMEs to develop and tailor current trends and learning goals for pharm manufacturing to a set of lectures that could be given to broader lecture.

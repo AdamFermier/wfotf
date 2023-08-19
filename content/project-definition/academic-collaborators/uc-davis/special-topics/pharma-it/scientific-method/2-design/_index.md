@@ -2,7 +2,7 @@
 title: Design
 weight: 2
 pre: "<b>2. </b>"
-chapter: false
+archetype: "default"
 ---
 
 {{% notice style="primary" title="Design Thinking" icon="graduation-cap" %}}

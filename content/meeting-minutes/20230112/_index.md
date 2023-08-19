@@ -1,7 +1,7 @@
 ---
 title: 12 Jan 2023
 weight: -20230112
-chapter: false
+archetype: "default"
 ---
 
 Dear All,

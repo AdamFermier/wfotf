@@ -1,7 +1,7 @@
 ---
 title: Special Topics
 weight: 1
-chapter: false
+archetype: "default"
 ---
 
 ## Our Vision

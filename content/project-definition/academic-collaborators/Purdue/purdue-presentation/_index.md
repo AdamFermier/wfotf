@@ -1,7 +1,7 @@
 ---
 title: Purdue Presentation
 weight: 1
-chapter: true
+archetype: "chapter"
 ---
 
 

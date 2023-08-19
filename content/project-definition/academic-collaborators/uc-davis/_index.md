@@ -1,7 +1,7 @@
 ---
 title: UC Davis
 weight: 1
-chapter: true
+archetype: "chapter"
 ---
 
 # UC Davis

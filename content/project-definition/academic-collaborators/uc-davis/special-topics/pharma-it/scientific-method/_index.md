@@ -1,7 +1,7 @@
 ---
 title: Scientific Method in Digital Age
 weight: 1
-chapter: false
+archetype: "default"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Our Academic Partners
 weight: 1
-chapter: false
+archetype: "default"
 ---
 
 Currently there are three institions involved in this Tier 1 collaboration they include:

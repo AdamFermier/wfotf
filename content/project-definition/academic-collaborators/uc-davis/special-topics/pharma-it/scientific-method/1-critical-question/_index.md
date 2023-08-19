@@ -2,7 +2,7 @@
 title: Critical Question
 weight: 1
 pre: "<b>1. </b>"
-chapter: false
+archetype: "default"
 ---
 
 {{% notice style="primary" title="What is the burning question you need answered?" icon="graduation-cap" %}}

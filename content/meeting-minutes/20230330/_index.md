@@ -1,7 +1,7 @@
 ---
 title: 30 March 2023
 weight: -20230330
-chapter: true
+archetype: "chapter"
 ---
 
 We have welcomed Brad Beach. He is added as Purdue University Representative representing the Purdue “ Advanced Pharmaceutical Manufacturing Institute” project.

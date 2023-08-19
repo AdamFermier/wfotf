@@ -1,7 +1,7 @@
 ---
 title: Project Background
 weight: -10
-chapter: true
+archetype: "chapter"
 ---
 
 # Our Common Focus: THE Students!

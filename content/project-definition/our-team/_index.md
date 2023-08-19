@@ -1,7 +1,7 @@
 ---
 title: Our Team
 weight: 1
-chapter: false
+archetype: "default"
 ---
 
 Team is made up of volunteers who are sponsored by their company to provide their time and talent to this effort.

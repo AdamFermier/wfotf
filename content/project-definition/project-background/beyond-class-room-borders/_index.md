@@ -1,7 +1,7 @@
 ---
 title: Beyond Classrom Boarders
 weight: 1
-chapter: false
+archetype: "default"
 ---
 
 A [great paper](Beyond-Classroom-Borders.pdf) outlines the real need to have industry and academia working together to help the student understand their future options - it helps the student, industry and academia!

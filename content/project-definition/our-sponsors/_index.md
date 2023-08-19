@@ -1,7 +1,7 @@
 ---
 title: Our Sponsors
 weight: 1
-chapter: false
+archetype: "default"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Guidances from Sponsors
 weight: 1
-chapter: false
+archetype: "default"
 ---
 
 {{% notice style="primary" title="Guidance received from the GPMLF (I)" icon="graduation-cap" %}}

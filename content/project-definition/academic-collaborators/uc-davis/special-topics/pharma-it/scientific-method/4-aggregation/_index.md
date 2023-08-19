@@ -2,7 +2,7 @@
 title: Aggregation
 weight: 4
 pre: "<b>4. </b>"
-chapter: false
+archetype: "default"
 ---
 
 {{% notice style="primary" title="Aggregation strategies come in many shapes and sizes" icon="graduation-cap" %}}

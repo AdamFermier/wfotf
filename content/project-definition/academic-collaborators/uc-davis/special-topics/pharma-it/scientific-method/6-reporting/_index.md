@@ -2,7 +2,7 @@
 title: Reporting
 weight: 6
 pre: "<b>6. </b>"
-chapter: false
+archetype: "default"
 ---
 
 {{% notice style="primary" title="Reporting" icon="far fa-graduation-cap" %}}

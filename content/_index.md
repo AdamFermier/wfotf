@@ -1,7 +1,7 @@
 ---
 title: Home
 weight: 1
-chapter: true
+archetype: "chapter"
 ---
 
 # Welcome to Workforce of the Future

@@ -1,7 +1,7 @@
 ---
 title: Project Definition
 weight: -10
-chapter: true
+archetype: "chapter"
 ---
 
 # Facilitating academic and industrial collaborations

@@ -1,7 +1,7 @@
 ---
 title: 03 May 2023
 weight: -20230503
-chapter: false
+archetype: "default"
 ---
 
 # Agenda
