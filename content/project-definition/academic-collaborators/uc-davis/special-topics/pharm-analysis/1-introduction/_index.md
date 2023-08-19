@@ -9,4 +9,4 @@ archetype: "default"
 
 Here we cover the speed, quality and costs of developing novel medical treatments.
 
-{{<iframe-pdf "Lecture 01 2023 pharmaceutical analysis.pdf">}}
+{{<iframe-pdf "Lecture-01-2023-pharmaceutical-analysis.pdf">}}
