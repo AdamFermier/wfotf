@@ -28,10 +28,6 @@ theme = ["hugo-theme-relearn"]
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
-# Ugly URLs to try to get it to work on S3
-uglyurls = "false"
-
-
 # Following guide from https://learn.netlify.app/en/basics/configuration/
 
 [params]
