@@ -1,6 +1,6 @@
 ---
 title: Risk Management
-description: "Here we cover the speed, quality and costs of developing novel medical treatments"
+description: "Here we describe the role of risk management in clinical development"
 weight: 2
 archetype: "default"
 ---
