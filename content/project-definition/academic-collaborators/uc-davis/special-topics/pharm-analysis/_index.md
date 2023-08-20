@@ -6,4 +6,4 @@ archetype: "chapter"
 
 A course we developed and teach at Temple University
 
-{{% children depth ="2" description=TRUE%}}
+{{% children depth ="2" description=TRUE %}}
